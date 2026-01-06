@@ -67,30 +67,7 @@ Cosine Similarity
 
 Cosine similarity measures the angle between vectors, indicating how similar two documents are regardless of length.
 
-cos
-⁡
-(
-𝜃
-)
-=
-𝐴
-⋅
-𝐵
-∣
-∣
-𝐴
-∣
-∣
- 
-∣
-∣
-𝐵
-∣
-∣
-cos(θ)=
-∣∣A∣∣∣∣B∣∣
-A⋅B
-	​
+cos⁡(𝜃)=𝐴⋅𝐵 / ∣∣𝐴∣∣.∣∣𝐵∣∣
 
 📊 Output
 
